@@ -1,9 +1,0 @@
-i
-today i read book ,
-enter today task 
-study and watch git from te starting how to connnect ec2 intance to git to powrshell to github 
-
-tommorow task 
-i will enter day1 and day 2 task 
-cover remaning AWS interview questions
-
