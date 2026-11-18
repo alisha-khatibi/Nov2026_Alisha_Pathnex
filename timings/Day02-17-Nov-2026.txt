@@ -1,0 +1,18 @@
+day 02 17/Nov/2026
+
+What i did today
+ 
+1 hour - Git branching practice
+1 hour - Pull Requests and code reviews
+1 hour - Linux commands
+1 hour - AWS EC2 practice
+
+
+Tommorow's tasks
+
+1.5 hour git practice
+3 hour watch lectr of terraform 
+5   hour AWS prac 
+1 hour rvsn of yesterday class
+attend evening class  
+ 
